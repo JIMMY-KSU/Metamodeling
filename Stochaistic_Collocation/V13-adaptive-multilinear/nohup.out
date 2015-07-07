@@ -1,0 +1,123 @@
+License checkout failed.
+License Manager Error -96
+MATLAB is unable to connect to the license server. 
+Make sure that the MATLAB client machine can communicate with the hostname listed in the SERVER line
+of the license file, and that the port listed in the SERVER line is not blocked by a firewall.
+
+Troubleshoot this issue by visiting: 
+http://www.mathworks.com/support/lme/R2011b/96
+
+Diagnostic Information:
+Feature: MATLAB 
+License path: /home2/slsd123/.matlab/R2011b_licenses:/usr/local/matlab-r2011b/licenses/license.dat:/usr/local/matl
+ab-r2011b/licenses/network.lic 
+FLEXnet Licensing error: -96,7. System Error: 2
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2011 The MathWorks, Inc.
+                    R2011b (7.13.0.564) 64-bit (glnxa64)
+                              August 13, 2011
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+initialize_time =
+
+    0.2513
+
+
+adaptive_grid_time =
+
+   6.8380e+03
+
+
+interpolate_solution_time =
+
+    3.7419
+
+
+interpolate_solution_time =
+
+    3.7419   21.8865
+
+
+interpolate_solution_time =
+
+    3.7419   21.8865   48.2090
+
+
+interpolate_solution_time =
+
+    3.7419   21.8865   48.2090  101.4354
+
+
+interpolate_solution_time =
+
+    3.7419   21.8865   48.2090  101.4354  226.4420
+
+
+interpolate_solution_time =
+
+    3.7419   21.8865   48.2090  101.4354  226.4420  550.1280
+
+
+interpolate_solution_time =
+
+   1.0e+03 *
+
+    0.0037    0.0219    0.0482    0.1014    0.2264    0.5501    1.2712
+
+
+interpolate_solution_time =
+
+   1.0e+03 *
+
+  Columns 1 through 7
+
+    0.0037    0.0219    0.0482    0.1014    0.2264    0.5501    1.2712
+
+  Column 8
+
+    2.9667
+
+
+interpolate_solution_time =
+
+   1.0e+03 *
+
+  Columns 1 through 7
+
+    0.0037    0.0219    0.0482    0.1014    0.2264    0.5501    1.2712
+
+  Columns 8 through 9
+
+    2.9667    6.5483
+
+
+interpolate_solution_time =
+
+   1.0e+04 *
+
+  Columns 1 through 7
+
+    0.0004    0.0022    0.0048    0.0101    0.0226    0.0550    0.1271
+
+  Columns 8 through 10
+
+    0.2967    0.6548    1.3344
+
+
+interpolate_solution_time =
+
+   1.0e+04 *
+
+  Columns 1 through 7
+
+    0.0004    0.0022    0.0048    0.0101    0.0226    0.0550    0.1271
+
+  Columns 8 through 11
+
+    0.2967    0.6548    1.3344    2.5739
+

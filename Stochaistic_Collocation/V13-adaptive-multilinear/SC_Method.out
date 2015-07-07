@@ -1,0 +1,22 @@
+Master process running on node11
+Directory is /home2/slsd123/Matlab/V11-adaptive_multilinear3
+PBS has allocated the following nodes:
+node11
+Starting execution at Mon Sep 16 16:37:29 PDT 2013
+This job has allocated 1 CPUs
+License checkout failed.
+License Manager Error -96
+MATLAB is unable to connect to the license server. 
+Make sure that the MATLAB client machine can communicate with the hostname listed in the SERVER line
+of the license file, and that the port listed in the SERVER line is not blocked by a firewall.
+
+Troubleshoot this issue by visiting: 
+http://www.mathworks.com/support/lme/R2011b/96
+
+Diagnostic Information:
+Feature: MATLAB 
+License path: /home2/slsd123/.matlab/R2011b_licenses:/usr/local/matlab-r2011b/licenses/license.dat:/usr/local/matl
+ab-r2011b/licenses/network.lic 
+FLEXnet Licensing error: -96,7. System Error: 2
+Finished execution at Mon Sep 16 16:38:51 PDT 2013
+/var/spool/torque/mom_priv/jobs/23298.dulcinea.SC: line 41: mpdallexit: command not found
